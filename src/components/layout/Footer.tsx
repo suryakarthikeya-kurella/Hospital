@@ -68,9 +68,7 @@ const Footer = () => {
                   <p className="text-sm text-muted-foreground">
                     {t('footer.mondayFriday', { hours: siteData.openingHours.weekdays })}
                   </p>
-                  <p className="text-sm text-muted-foreground">
-                    {t('footer.saturday', { hours: siteData.openingHours.saturday })}
-                  </p>
+                  
                   <p className="text-sm text-muted-foreground">
                     {t('footer.sunday', { hours: siteData.openingHours.sunday })}
                   </p>
