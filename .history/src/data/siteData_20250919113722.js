@@ -98,7 +98,7 @@ export const siteData = {
   
    openingHours: {
     weekdays: "10:00 AM - 1:30 PM, 6:00 PM - 8:00 PM",
-    sunday: "10:00 AM - 1:30 PM",
+    sunday: "10",
     emergency: "24/7 Emergency Care Available",
     clinic: "8:00 AM - 8:00 PM (Monday to Saturday)"
   },
