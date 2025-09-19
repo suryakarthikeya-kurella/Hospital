@@ -297,9 +297,9 @@ const Contact = () => {
                       className="w-full px-4 py-3 border border-input rounded-lg focus:ring-2 focus:ring-ring focus:border-transparent transition-colors"
                     >
                       <option value="">{t('contact.selectTime')}</option>
-                      <option value="morning">{t('contact.morning')}</option>
+                      <option value="morning">10:00 AM - 1:30 PM</option>
                       
-                      <option value="evening">{t('contact.evening')}</option>
+                      <option value="evening">6:00 AM -  8:00 PM</option>
                     </select>
                   </div>
                 </div>
